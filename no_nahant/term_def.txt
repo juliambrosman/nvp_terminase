@@ -1,0 +1,199 @@
+186	range	#D8D8D8	not characterized
+7201	range	#CA51CD	3-cos/HK97
+0305phi8-36	range	#D8D8D8	not characterized
+1102phi1-3	range	#D8D8D8	not characterized
+933W	range	#D24F34	headful/933W
+9g	range	#D8D8D8	not characterized
+9NA	range	#D8D8D8	not characterized
+Tum2	range	#D8D8D8	not characterized
+A118	range	#729DCA	headful/P22
+A2	range	#D8D8D8	not characterized
+A500	range	#D8D8D8	not characterized
+A511	range	#D8D8D8	not characterized
+Aaphi23	range	#CF4078	NoGroup
+Aeh1	range	#C18E39	headful/T4
+APSE-1	range	#71427D	headful/Sf6
+Bruc1	range	#D8D8D8	not characterized
+B3	range	#52AA8E	host ends/Mu
+Bastille	range	#D8D8D8	not characterized
+Bcep22	range	#D24F34	headful/933W
+BcepMu	range	#D8D8D8	not characterized
+BCJA1c	range	#729DCA	headful/P22
+bIL170	range	#CA51CD	3-cos/HK97
+bIL285	range	#CA51CD	3-cos/HK97
+bIL67	range	#CA51CD	3-cos/HK97
+BK5-T	range	#CA51CD	3-cos/HK97
+BP-4795	range	#D8D8D8	not characterized
+cc1	range	#D8D8D8	not characterized
+c2	range	#CA51CD	3-cos/HK97
+Chi	range	#D8D8D8	not characterized
+Clo2	range	#D8D8D8	not characterized
+CP-933K	range	#D8D8D8	not characterized
+CP-933N	range	#CA51CD	3-cos/HK97
+CP-933P	range	#D8D8D8	not characterized
+CP-933V	range	#CA51CD	3-cos/HK97
+CP-T1	range	#D8D8D8	not characterized
+D29	range	#CA51CD	3-cos/HK97
+D3	range	#CA51CD	3-cos/HK97
+D3112	range	#6EB042	headful/D3112
+DSS3Phi2	range	#D8D8D8	not characterized
+E1	range	#D8D8D8	not characterized
+Ea35-70	range	#D8D8D8	not characterized
+EC1-UPM	range	#904840	DTR/N4
+ECO1230–10	range	#D8D8D8	not characterized
+ECP1	range	#D8D8D8	not characterized
+EE36Phi1	range	#D8D8D8	not characterized
+EJ-1	range	#729DCA	headful/P22
+EMCL-117	range	#D8D8D8	not characterized
+Era103	range	#D8D8D8	not characterized
+ES18	range	#71427D	headful/Sf6
+ESSI-2	range	#D8D8D8	not characterized
+Felix-O1	range	#D8D8D8	not characterized
+Fels-1	range	#7F72D2	Cos/lambda
+Fels-2	range	#455C71	5-cos/P2
+Flex5	range	#D8D8D8	not characterized
+FluMu	range	#52AA8E	host ends/Mu
+FSL-SP-058	range	#D8D8D8	not characterized
+G1	range	#D8D8D8	not characterized
+GAP227	range	#D8D8D8	not characterized
+gh-1	range	#CE83AD	short DTR/T7
+Gifsy-1	range	#7F72D2	Cos/lambda
+Gifsy-2	range	#7F72D2	Cos/lambda
+Gj1	range	#D8D8D8	not characterized
+RhodoGTA	range	#D8D8D8	not characterized
+HK022	range	#CA51CD	3-cos/HK97
+HK620	range	#71427D	headful/Sf6
+HK639	range	#D8D8D8	not characterized
+HK97	range	#CA51CD	3-cos/HK97
+HP1	range	#455C71	5-cos/P2
+HS2	range	#D8D8D8	not characterized
+IME11	range	#904840	DTR/N4
+JA-1	range	#904840	DTR/N4
+JWAlpha	range	#904840	DTR/N4
+K	range	#D8D8D8	not characterized
+K139	range	#455C71	5-cos/P2
+K1-5	range	#CE83AD	short DTR/T7
+KF-1	range	#D8D8D8	not characterized
+KP34	range	#D8D8D8	not characterized
+KVP40	range	#C18E39	headful/T4
+L-413C	range	#D8D8D8	not characterized
+L5	range	#CA51CD	3-cos/HK97
+Lambda	range	#D8D8D8	not characterized
+LambdaSo	range	#D8D8D8	not characterized
+lambdaBa02	range	#CA51CD	3-cos/HK97
+LambdaSa2	range	#D8D8D8	not characterized
+LIMEzero	range	#D8D8D8	not characterized
+List-I6	range	#D8D8D8	not characterized
+LIT1	range	#904840	DTR/N4
+Lj965	range	#729DCA	headful/P22
+LL-H	range	#729DCA	headful/P22
+LP65	range	#D8D8D8	not characterized
+LP7	range	#729DCA	headful/P22
+LUZ7	range	#904840	DTR/N4
+Meso1	range	#D8D8D8	not characterized
+Meso2	range	#D8D8D8	not characterized
+Meso3	range	#D8D8D8	not characterized
+MM1	range	#D8D8D8	not characterized
+MSW-3	range	#D8D8D8	not characterized
+Mu	range	#52AA8E	host ends/Mu
+MuSo1	range	#52AA8E	host ends/Mu
+N15	range	#7F72D2	Cos/lambda
+N4	range	#904840	DTR/N4
+NF5	range	#D8D8D8	not characterized
+O1205	range	#D8D8D8	not characterized
+PhiEco32	range	#D8D8D8	not characterized
+phiKT	range	#D8D8D8	not characterized
+P008	range	#CA51CD	3-cos/HK97
+P1	range	#D8D8D8	not characterized
+P100	range	#D8D8D8	not characterized
+P2	range	#455C71	5-cos/P2
+P22	range	#729DCA	headful/P22
+P27	range	#D8D8D8	not characterized
+PBC5	range	#D24F34	headful/933W
+PBSX	range	#D8D8D8	not characterized
+pCB2047-B	range	#D8D8D8	not characterized
+pEP-14	range	#D8D8D8	not characterized
+Phage21	range	#D8D8D8	not characterized
+phi-11	range	#D8D8D8	not characterized
+phi-13	range	#D8D8D8	not characterized
+phi92	range	#D8D8D8	not characterized
+phi-adh	range	#D8D8D8	not characterized
+phi-CTX	range	#D8D8D8	not characterized
+phi-ETA	range	#D8D8D8	not characterized
+psiM100	range	#D8D8D8	not characterized
+psiM2	range	#D8D8D8	not characterized
+phi-Sa2MW	range	#D8D8D8	not characterized
+phi1026b	range	#D8D8D8	not characterized
+phi-105	range	#D8D8D8	not characterized
+phi3626	range	#CA51CD	3-cos/HK97
+phi80	range	#D8D8D8	not characterized
+phiA1122	range	#D8D8D8	not characterized
+phi-BT1	range	#D8D8D8	not characterized
+phiC31	range	#CA51CD	3-cos/HK97
+phiE125	range	#CA51CD	3-cos/HK97
+phiES15	range	#D8D8D8	not characterized
+phiEt88	range	#D8D8D8	not characterized
+phiFlu	range	#D8D8D8	not characterized
+phig1e	range	#729DCA	headful/P22
+phiHSIC	range	#D8D8D8	not characterized
+phiKMV	range	#CE83AD	short DTR/T7
+phiKO2	range	#CA51CD	3-cos/HK97
+phiR1-37	range	#D8D8D8	not characterized
+phiSLT	range	#D8D8D8	not characterized
+phiYeO3-12	range	#D8D8D8	not characterized
+Pnm1	range	#D8D8D8	not characterized
+PP01	range	#D8D8D8	not characterized
+PP02	range	#D8D8D8	not characterized
+PP04	range	#D8D8D8	not characterized
+P-SSP7	range	#D8D8D8	not characterized
+PVL	range	#D8D8D8	not characterized
+PY100	range	#D8D8D8	not characterized
+PY54	range	#CA51CD	3-cos/HK97
+pYD6-A	range	#904840	DTR/N4
+r1t	range	#D8D8D8	not characterized
+RadMu	range	#D8D8D8	not characterized
+Rak2	range	#D8D8D8	not characterized
+RB49	range	#C18E39	headful/T4
+Plymouth-podovirus-1	range	#D8D8D8	not characterized
+rV5	range	#D8D8D8	not characterized
+SETP3	range	#D8D8D8	not characterized
+Sf6	range	#71427D	headful/Sf6
+Sfi11	range	#729DCA	headful/P22
+Sfi19	range	#CA51CD	3-cos/HK97
+Sfi21	range	#CA51CD	3-cos/HK97
+SfV	range	#D8D8D8	not characterized
+sk1	range	#D8D8D8	not characterized
+SKIN	range	#D8D8D8	not characterized
+SO-1	range	#D8D8D8	not characterized
+SP18	range	#D8D8D8	not characterized
+SP6	range	#CE83AD	short DTR/T7
+SPN3US	range	#D8D8D8	not characterized
+SPO1	range	#CF4078	NoGroup
+SPP1	range	#729DCA	headful/P22
+SSU5	range	#D8D8D8	not characterized
+ST64B	range	#CA51CD	3-cos/HK97
+ST64T	range	#D8D8D8	not characterized
+Stx1-phi	range	#D8D8D8	not characterized
+T1	range	#D8D8D8	not characterized
+T3	range	#CE83AD	short DTR/T7
+T4	range	#C18E39	headful/T4
+T5	range	#CF4078	NoGroup
+T7	range	#CE83AD	short DTR/T7
+TM4	range	#D8D8D8	not characterized
+TP901-1	range	#CF4078	NoGroup
+vB-EamP-S6	range	#D8D8D8	not characterized
+vB-EcoP-G7c	range	#D8D8D8	not characterized
+VBP32	range	#904840	DTR/N4
+VHML	range	#D8D8D8	not characterized
+Vi01	range	#D8D8D8	not characterized
+VP16C	range	#D8D8D8	not characterized
+VP16T	range	#D8D8D8	not characterized
+VPMS1	range	#D8D8D8	not characterized
+VpV262	range	#D8D8D8	not characterized
+VWB	range	#D8D8D8	not characterized
+WO	range	#7F72D2	Cos/lambda
+XccP1	range	#D8D8D8	not characterized
+Xp10	range	#CA51CD	3-cos/HK97
+ZF40	range	#D8D8D8	not characterized
+epsilon15	range	#D8D8D8	not characterized
+PhiEaH1	range	#D8D8D8	not characterized

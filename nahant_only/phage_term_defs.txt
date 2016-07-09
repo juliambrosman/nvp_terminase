@@ -1,0 +1,287 @@
+1.003.O.	range	#788BCD	headful/Sf6
+1.004.O.	range	#63B348	3-cos/HK97
+1.005.O.	range	#D55536	Cos/lambda
+1.007.O.	range	#788BCD	headful/Sf6
+1.008.O.	range	NA	NA
+1.009.O.	range	#D55536	Cos/lambda
+1.011.O.	range	NA	NA
+1.012.O.	range	#788BCD	headful/Sf6
+1.013.O.	range	#788BCD	headful/Sf6
+1.015.O.	range	#519E99	short DTR/T7
+1.016.O.	range	#788BCD	headful/Sf6
+1.017.O.	range	#D55536	Cos/lambda
+1.020.O.	range	NA	NA
+1.021.A.	range	NA	NA
+1.021.B.	range	NA	NA
+1.021.C.	range	NA	NA
+1.022.O.	range	#788BCD	headful/Sf6
+1.023.O.	range	#788BCD	headful/Sf6
+1.024.O.	range	#788BCD	headful/Sf6
+1.025.O.	range	#BC983A	DTR/N4
+1.026.O.	range	#BC983A	DTR/N4
+1.027.O.	range	#788BCD	headful/Sf6
+1.028.O.	range	#C23C70	host ends/Mu
+1.029.O.	range	#B458CB	NoGroup
+1.030.O.	range	#D55536	Cos/lambda
+1.031.O.	range	NA	NA
+1.032.O.	range	#788BCD	headful/Sf6
+1.033.O.	range	#788BCD	headful/Sf6
+1.034.O.	range	#519E99	short DTR/T7
+1.034.X.	range	#519E99	short DTR/T7
+1.036.O.	range	#788BCD	headful/Sf6
+1.037.O.	range	#63B348	3-cos/HK97
+1.038.O.	range	#B458CB	NoGroup
+1.039.O.	range	#788BCD	headful/Sf6
+1.040.O.	range	NA	NA
+1.042.O.	range	#788BCD	headful/Sf6
+1.043.O.	range	NA	NA
+1.044.O.	range	NA	NA
+1.046.O.	range	#788BCD	headful/Sf6
+1.047.O.	range	#507138	headful/933W
+1.048.O.	range	NA	NA
+1.049.O.	range	#D55536	Cos/lambda
+1.050.O.	range	#D55536	Cos/lambda
+1.052.A.	range	#788BCD	headful/Sf6
+1.054.O.	range	#B458CB	NoGroup
+1.055.O.	range	#D55536	Cos/lambda
+1.056.O.	range	#63B348	3-cos/HK97
+1.057.O.	range	NA	NA
+1.060.A.	range	#5E4A72	5-cos/P2
+1.061.O.	range	#788BCD	headful/Sf6
+1.062.O.	range	NA	NA
+1.063.O.	range	NA	NA
+1.064.O.	range	#5E4A72	5-cos/P2
+1.066.O.	range	#63B348	3-cos/HK97
+1.067.O.	range	#788BCD	headful/Sf6
+1.068.O.	range	#63B348	3-cos/HK97
+1.069.O.	range	NA	NA
+1.070.O.	range	#519E99	short DTR/T7
+1.071.A.	range	#788BCD	headful/Sf6
+1.072.O.	range	#63B348	3-cos/HK97
+1.074.O.	range	#5E4A72	5-cos/P2
+1.075.O.	range	#D55536	Cos/lambda
+1.076.O.	range	#B458CB	NoGroup
+1.077.O.	range	#519E99	short DTR/T7
+1.079.O.	range	#788BCD	headful/Sf6
+1.080.O.	range	NA	NA
+1.081.O.	range	#C23C70	host ends/Mu
+1.082.O.	range	#5E4A72	5-cos/P2
+1.083.O.	range	#D55536	Cos/lambda
+1.084.O.	range	NA	NA
+1.085.O.	range	#519E99	short DTR/T7
+1.086.O.	range	#D55536	Cos/lambda
+1.087.A.	range	#D55536	Cos/lambda
+1.088.O.	range	#788BCD	headful/Sf6
+1.089.O.	range	#788BCD	headful/Sf6
+1.090.B.	range	#788BCD	headful/Sf6
+1.091.O.	range	#788BCD	headful/Sf6
+1.093.O.	range	#D55536	Cos/lambda
+1.094.O.	range	#D55536	Cos/lambda
+1.095.O.	range	NA	NA
+1.097.O.	range	#BC983A	DTR/N4
+1.098.O.	range	#788BCD	headful/Sf6
+1.100.O.	range	#D55536	Cos/lambda
+1.101.O.	range	#519E99	short DTR/T7
+1.102.O.	range	NA	NA
+1.103.O.	range	#788BCD	headful/Sf6
+1.104.O.	range	#788BCD	headful/Sf6
+1.105.O.	range	#788BCD	headful/Sf6
+1.106.O.	range	#788BCD	headful/Sf6
+1.107.A.	range	NA	NA
+1.107.B.	range	NA	NA
+1.107.C.	range	NA	NA
+1.108.O.	range	#5E4A72	5-cos/P2
+1.110.O.	range	#788BCD	headful/Sf6
+1.111.A.	range	#D55536	Cos/lambda
+1.111.B.	range	#D55536	Cos/lambda
+1.112.O.	range	#788BCD	headful/Sf6
+1.113.A.	range	#507138	headful/933W
+1.115.A.	range	#5E4A72	5-cos/P2
+1.115.B.	range	#5E4A72	5-cos/P2
+1.116.O.	range	#519E99	short DTR/T7
+1.117.O.	range	NA	NA
+1.118.A.	range	#788BCD	headful/Sf6
+1.118.B.	range	#788BCD	headful/Sf6
+1.119.O.	range	#788BCD	headful/Sf6
+1.121.O.	range	NA	NA
+1.122.A.	range	#B458CB	NoGroup
+1.122.B.	range	#B458CB	NoGroup
+1.123.O.	range	#788BCD	headful/Sf6
+1.124.O.	range	#D55536	Cos/lambda
+1.125.O.	range	NA	NA
+1.126.O.	range	NA	NA
+1.127.O.	range	#788BCD	headful/Sf6
+1.131.O.	range	#5E4A72	5-cos/P2
+1.132.O.	range	#5E4A72	5-cos/P2
+1.133.O.	range	#5E4A72	5-cos/P2
+1.134.O.	range	#519E99	short DTR/T7
+1.135.O.	range	#788BCD	headful/Sf6
+1.136.O.	range	#C23C70	host ends/Mu
+1.137.O.	range	#788BCD	headful/Sf6
+1.138.O.	range	#507138	headful/933W
+1.139.A.	range	#519E99	short DTR/T7
+1.139.B.	range	#519E99	short DTR/T7
+1.141.A.	range	NA	NA
+1.142.O.	range	#C23C70	host ends/Mu
+1.143.O.	range	#788BCD	headful/Sf6
+1.144.O.	range	#788BCD	headful/Sf6
+1.147.O.	range	#5E4A72	5-cos/P2
+1.148.O.	range	#5E4A72	5-cos/P2
+1.149.O.	range	#788BCD	headful/Sf6
+1.150.O.	range	#BC983A	DTR/N4
+1.151.O.	range	#5E4A72	5-cos/P2
+1.152.O.	range	#BC983A	DTR/N4
+1.154.O.	range	#B458CB	NoGroup
+1.155.O.	range	#788BCD	headful/Sf6
+1.156.O.	range	#C23C70	host ends/Mu
+1.157.O.	range	#5E4A72	5-cos/P2
+1.158.O.	range	#D55536	Cos/lambda
+1.159.O.	range	#C23C70	host ends/Mu
+1.160.O.	range	#788BCD	headful/Sf6
+1.161.O.	range	NA	NA
+1.162.O.	range	#5E4A72	5-cos/P2
+1.164.O.	range	#D55536	Cos/lambda
+1.165.O.	range	#5E4A72	5-cos/P2
+1.166.O.	range	#788BCD	headful/Sf6
+1.167.O.	range	#5E4A72	5-cos/P2
+1.168.O.	range	#5E4A72	5-cos/P2
+1.169.O.	range	NA	NA
+1.170.O.	range	NA	NA
+1.171.O.	range	#788BCD	headful/Sf6
+1.172.O.	range	#519E99	short DTR/T7
+1.173.O.	range	#788BCD	headful/Sf6
+1.174.O.	range	#D55536	Cos/lambda
+1.175.O.	range	#D55536	Cos/lambda
+1.176.O.	range	#519E99	short DTR/T7
+1.177.O.	range	#788BCD	headful/Sf6
+1.178.O.	range	#788BCD	headful/Sf6
+1.179.O.	range	#507138	headful/933W
+1.181.O.	range	#D55536	Cos/lambda
+1.182.O.	range	#8E4F37	headful/T4
+1.183.O.	range	#507138	headful/933W
+1.184.A.	range	#788BCD	headful/Sf6
+1.185.O.	range	NA	NA
+1.186.O.	range	#788BCD	headful/Sf6
+1.187.O.	range	NA	NA
+1.188.A.	range	NA	NA
+1.188.B.	range	NA	NA
+1.188.C.	range	NA	NA
+1.189.B.	range	#519E99	short DTR/T7
+1.189.C.	range	#519E99	short DTR/T7
+1.189.O.	range	#519E99	short DTR/T7
+1.190.O.	range	#788BCD	headful/Sf6
+1.191.O.	range	#D55536	Cos/lambda
+1.193.O.	range	NA	NA
+1.194.O.	range	#788BCD	headful/Sf6
+1.195.O.	range	#788BCD	headful/Sf6
+1.196.O.	range	#788BCD	headful/Sf6
+1.197.A.	range	#507138	headful/933W
+1.198.A.	range	#B458CB	NoGroup
+1.198.B.	range	NA	NA
+1.199.A.	range	#788BCD	headful/Sf6
+1.199.B.	range	#788BCD	headful/Sf6
+1.200.O.	range	#788BCD	headful/Sf6
+1.201.B.	range	#D55536	Cos/lambda
+1.202.O.	range	#5E4A72	5-cos/P2
+1.204.O.	range	#519E99	short DTR/T7
+1.205.O.	range	#507138	headful/933W
+1.206.O.	range	#5E4A72	5-cos/P2
+1.207.B.	range	NA	NA
+1.208.B.	range	#519E99	short DTR/T7
+1.209.O.	range	#519E99	short DTR/T7
+1.210.O.	range	#788BCD	headful/Sf6
+1.211.A.	range	#507138	headful/933W
+1.211.B.	range	#507138	headful/933W
+1.213.O.	range	#788BCD	headful/Sf6
+1.214.O.	range	#788BCD	headful/Sf6
+1.214.Y.	range	NA	NA
+1.215.A.	range	NA	NA
+1.215.B.	range	NA	NA
+1.216.O.	range	#788BCD	headful/Sf6
+1.217.O.	range	#C23C70	host ends/Mu
+1.217.Y.	range	NA	NA
+1.219.O.	range	#C23C70	host ends/Mu
+1.223.O.	range	#D55536	Cos/lambda
+1.224.A.	range	NA	NA
+1.225.O.	range	#D55536	Cos/lambda
+1.226.O.	range	#5E4A72	5-cos/P2
+1.228.O.	range	#5E4A72	5-cos/P2
+1.231.O.	range	#788BCD	headful/Sf6
+1.232.O.	range	#507138	headful/933W
+1.233.A.	range	#5E4A72	5-cos/P2
+1.233.B.	range	#5E4A72	5-cos/P2
+1.235.O.	range	#519E99	short DTR/T7
+1.236.O.	range	#788BCD	headful/Sf6
+1.237.A.	range	#788BCD	headful/Sf6
+1.237.B.	range	#788BCD	headful/Sf6
+1.238.A.	range	#BC983A	DTR/N4
+1.238.B.	range	#BC983A	DTR/N4
+1.239.O.	range	#788BCD	headful/Sf6
+1.240.O.	range	#5E4A72	5-cos/P2
+1.242.O.	range	#5E4A72	5-cos/P2
+1.243.O.	range	#788BCD	headful/Sf6
+1.244.A.	range	#8E4F37	headful/T4
+1.245.O.	range	#BC983A	DTR/N4
+1.246.O.	range	#D55536	Cos/lambda
+1.247.A.	range	#B458CB	NoGroup
+1.247.B.	range	#B458CB	NoGroup
+1.248.O.	range	#788BCD	headful/Sf6
+1.249.A.	range	NA	NA
+1.249.B.	range	NA	NA
+1.250.O.	range	#788BCD	headful/Sf6
+1.251.O.	range	#788BCD	headful/Sf6
+1.253.O.	range	#519E99	short DTR/T7
+1.254.O.	range	#507138	headful/933W
+1.255.O.	range	#8E4F37	headful/T4
+1.256.O.	range	#788BCD	headful/Sf6
+1.257.O.	range	#507138	headful/933W
+1.259.O.	range	#788BCD	headful/Sf6
+1.261.O.	range	NA	NA
+1.262.O.	range	#CB7CA7	headful/P22
+1.263.A.	range	#788BCD	headful/Sf6
+1.263.B.	range	#788BCD	headful/Sf6
+1.264.O.	range	#519E99	short DTR/T7
+1.265.O.	range	#788BCD	headful/Sf6
+1.266.O.	range	#5E4A72	5-cos/P2
+1.267.O.	range	#788BCD	headful/Sf6
+1.268.A.	range	NA	NA
+1.268.B.	range	#788BCD	headful/Sf6
+1.269.O.	range	#788BCD	headful/Sf6
+1.270.A.	range	#788BCD	headful/Sf6
+1.270.B.	range	#788BCD	headful/Sf6
+1.271.A.	range	#788BCD	headful/Sf6
+1.271.B.	range	#788BCD	headful/Sf6
+1.272.O.	range	#788BCD	headful/Sf6
+1.273.O.	range	#788BCD	headful/Sf6
+1.274.O.	range	#788BCD	headful/Sf6
+1.275.O.	range	#788BCD	headful/Sf6
+1.276.O.	range	#B458CB	NoGroup
+1.277.A.	range	#788BCD	headful/Sf6
+1.277.B.	range	#788BCD	headful/Sf6
+1.278.O.	range	#788BCD	headful/Sf6
+1.280.O.	range	#788BCD	headful/Sf6
+1.281.O.	range	#788BCD	headful/Sf6
+1.282.A.	range	#788BCD	headful/Sf6
+1.283.A.	range	#788BCD	headful/Sf6
+1.283.B.	range	#788BCD	headful/Sf6
+1.283.C.	range	#788BCD	headful/Sf6
+1.284.A.	range	#507138	headful/933W
+1.285.O.	range	#788BCD	headful/Sf6
+1.286.O.	range	#788BCD	headful/Sf6
+1.287.O.	range	#507138	headful/933W
+1.289.A.	range	#507138	headful/933W
+1.291.O.	range	#507138	headful/933W
+1.293.O.	range	#519E99	short DTR/T7
+12G01.O.	range	#788BCD	headful/Sf6
+2.044.O.	range	#63B348	3-cos/HK97
+2.058.O.	range	#5E4A72	5-cos/P2
+2.092.O.	range	NA	NA
+2.095.A.	range	#B458CB	NoGroup
+2.095.B.	range	#B458CB	NoGroup
+2.096.O.	range	#D55536	Cos/lambda
+2.117.O.	range	NA	NA
+2.130.O.	range	#BC983A	DTR/N4
+2.159.A.	range	#C23C70	host ends/Mu
+2.159.B.	range	#C23C70	host ends/Mu
+2.275.O.	range	#8E4F37	headful/T4
+3.058.O.	range	#5E4A72	5-cos/P2

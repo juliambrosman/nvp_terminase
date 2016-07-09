@@ -1,0 +1,26 @@
+terminase_grp	short_desc	long_desc
+terminase32	Headful	headful/P22
+terminase19	Headful	headful/P22
+terminase30	Cos	3-cos/HK97
+terminase50	Headful	headful/D3112
+terminase37	Cos	3-cos/HK97
+terminase35	Cos	3-cos/HK97
+terminase10	DTR	short DTR/T7
+terminase12	Mu	host ends/Mu
+terminase15	Headful	headful/T4
+terminase17	Cos	5-cos/P2
+terminase2	DTR	DTR/N4
+terminase3	Cos	Cos/lambda
+terminase6	Headful	headful/933W
+terminase4	Cos	3-cos/HK97
+terminase5	Headful	headful/Sf6
+terminase42	Headful	headful/P22
+terminase47	Headful	headful/P22
+terminase45	Cos	3-cos/HK97
+terminase28	Cos	Cos/lambda
+terminase41	Cos	3-cos/HK97
+terminase27	Cos	Cos/lambda
+terminase22	Headful	headful/Sf6
+terminase20	Cos	3-cos/HK97
+terminase49	Cos	3-cos/HK97
+terminase48	Mu	host ends/Mu

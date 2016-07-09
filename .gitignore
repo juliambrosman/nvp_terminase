@@ -1,0 +1,5 @@
+*.mas
+*.meg
+*.fai
+*mega_cache*
+.ipynb_checkpoints

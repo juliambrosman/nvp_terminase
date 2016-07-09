@@ -1,0 +1,199 @@
+186	Enterobacteria phage 186	AAC34148.1	3337256	 terminase subunit 	Myoviridae	not characterized	not characterized
+7201	Streptococcus phage 7201	NP_038323.1	9634649	 ORF22 	Siphoviridae	3-cos/HK97	Cos
+0305phi8-36	Bacillus phage 0305phi8-36	YP_001429607.1	156564098	 terminase large subunit 	Myoviridae	not characterized	not characterized
+1102phi1-3	Bacillus phage 1102phi1-3	AAS45252.1	42742386	 large terminase 	Myoviridae	not characterized	not characterized
+933W	Enterobacteria phage 933W	NP_049511.1	9632517	 putative large subunit terminase 	Podoviridae	headful/933W	Headful
+9g	Enterobacteria phage 9g	YP_009032373.1	640885123	 terminase large subunit 	Siphoviridae	not characterized	not characterized
+9NA	Salmonella phage 9NA	YP_009101181.1	712913967	 large terminase subunit 	Siphoviridae	not characterized	not characterized
+Tum2	Agrobacterium fabrum str. C58	AAK86757.2	159139855	 large terminase phage packaging protein 	prophage	not characterized	not characterized
+A118	Listeria phage A118	NP_463463.1	16798785	 putative terminase large subunit 	Siphoviridae	headful/P22	Headful
+A2	Lactobacillus phage A2	NP_680484.1	22296524	 putative large terminase subunit 	Siphoviridae	not characterized	not characterized
+A500	Listeria phage A500	YP_001468388.1	157324962	 TerL 	Siphoviridae	not characterized	not characterized
+A511	Listeria phage A511	YP_001468454.1	157325029	 gp74 	Myoviridae	not characterized	not characterized
+Aaphi23	Haemophilus phage Aaphi23	NP_852753.1	31544028	 putative terminase large subunit TerL 	Myoviridae	NoGroup	NoGroup
+Aeh1	Aeromonas phage Aeh1	NP_944105.1	38640149	 gp17 terminase DNA packaging enzyme large subunit 	Myoviridae	headful/T4	Headful
+APSE-1	Endosymbiont phage APSE-1	NP_050979.1	9633565	 P18 	Podoviridae	headful/Sf6	Headful
+Bruc1	Brucella melitensis bv. 1 str. 16M	AAL52531.1	17983344	 phage DNA packaging protein 	prophage	not characterized	not characterized
+B3	Pseudomonas phage B3	YP_164067.1	56692599	 large terminase subunit 	Siphoviridae	host ends/Mu	Mu
+Bastille	Bacillus phage Bastille	YP_006907293.1	410492107	 large terminase subunit 	Myoviridae	not characterized	not characterized
+Bcep22	Burkholderia phage Bcep22	NP_944278.1	38640355	 Bcep22gp49 	Podoviridae	headful/933W	Headful
+BcepMu	Burkholderia phage BcepMu	YP_024701.1	48696938	 gp28 	Myoviridae	not characterized	not characterized
+BCJA1c	Bacillus phage BCJA1c	YP_164412.1	56694902	 terminase large subunit 	Siphoviridae	headful/P22	Headful
+bIL170	Lactococcus phage bIL170	NP_047115.1	9630568	 putative terminase subunit 	Siphoviridae	3-cos/HK97	Cos
+bIL285	Lactococcus phage bIL285	NP_076613.1	13095721	 terminase 	Siphoviridae	3-cos/HK97	Cos
+bIL67	Lactococcus phage bIL67	AAA74327.1	522258	 terminase subunit 	Siphoviridae	3-cos/HK97	Cos
+BK5-T	Lactococcus phage BK5-T	NP_116494.1	14251127	 putative large terminase subunit 	Siphoviridae	3-cos/HK97	Cos
+BP-4795	Enterobacteria phage BP-4795	CAD88856.1	49523638	 putative large subunit terminase 	Siphoviridae	not characterized	not characterized
+cc1	Caulobacter crescentus CB15	NP_421586.1	16127022	 hypothetical protein CC_2790 	prophage	not characterized	not characterized
+c2	Lactococcus phage c2	NP_043560.1	9628694	 terminase 	Siphoviridae	3-cos/HK97	Cos
+Chi	Salmonella phage Chi	YP_009101107.1	712913881	 TerL 	Siphoviridae	not characterized	not characterized
+Clo2	Clostridium acetobutylicum ATCC 824	NP_348518.1	15895169	 phage terminase-like protein large subunit 	prophage	not characterized	not characterized
+CP-933K	Escherichia coli O157:H7 str. EDL933	AAG55120.1	12513729	AE005256_11 putative DNA packaging protein of prophage CP-933K 	prophage	not characterized	not characterized
+CP-933N	Escherichia coli O157:H7 str. EDL933	AAG55903.1	12514716	AE005324_6 putative terminase encoded by prophage CP-933N 	prophage	3-cos/HK97	Cos
+CP-933P	Escherichia coli O157:H7 str. EDL933	AAK16961.1	13259591	AE006459_12 putative terminase subunit encoded by cryptic prophage CP-933P 	prophage	not characterized	not characterized
+CP-933V	Escherichia coli O157:H7 str. EDL933	AAG57217.1	12516381	AE005441_13 unknown protein encoded within prophage CP-933V 	prophage	3-cos/HK97	Cos
+CP-T1	Vibrio phage CP-T1	AFC22405.1	378565133	 putative TerL large-subunit terminase 	Myoviridae	not characterized	not characterized
+D29	Mycobacterium phage D29	NP_046828.1	9630396	 gp13 	Siphoviridae	3-cos/HK97	Cos
+D3	Pseudomonas phage D3	NP_061498.1	9635588	 terminase 	Siphoviridae	3-cos/HK97	Cos
+D3112	Pseudomonas phage D3112	NP_938233.1	38229138	 hypothetical protein D3112p26 	Siphoviridae	headful/D3112	Headful
+DSS3Phi2	Silicibacter phage DSS3phi2	ACL81343.1	220898085	 N4 gp68-like protein 	Podoviridae	not characterized	not characterized
+E1	Salmonella phage Vi II-E1	CAM33107.1	170321588	 phage large terminase subunit 	Siphoviridae	not characterized	not characterized
+Ea35-70	Erwinia phage Ea35-70	AHI60333.1	583927031	 terminase, large subunit 	Myoviridae	not characterized	not characterized
+EC1-UPM	Escherichia phage EC1-UPM	AGC31502.1	441431418	 terminase subunit A 	Podoviridae	DTR/N4	DTR
+ECO1230–10	Escherichia phage vB_EcoM_ECO1230-10	ADE87935.1	294486119	 putative large terminase subunit 	Myoviridae	not characterized	not characterized
+ECP1	Enterobacter phage EcP1	YP_007003189.1	418489369	 hypothetical protein EcP1_gp66 	Podoviridae	not characterized	not characterized
+EE36Phi1	Sulfitobacter phage EE36phi1	ACL81422.1	220898165	 N4 gp68-like protein 	Podoviridae	not characterized	not characterized
+EJ-1	Streptococcus phage EJ-1	NP_945278.1	39653713	 terminase, large subunit 	Myoviridae	headful/P22	Headful
+EMCL-117	Escherichia phage ECML-117	AFO10464.1	397133956	 phage terminase large subunit 	Myoviridae	not characterized	not characterized
+Era103	Erwinia amylovora phage Era103	YP_001039677.1	126000006	 TerL large terminase subunit-like protein 	Podoviridae	not characterized	not characterized
+ES18	Enterobacteria phage ES18	YP_224140.1	62362215	 gp2 	Siphoviridae	headful/Sf6	Headful
+ESSI-2	Cronobacter phage ESSI-2	ADX32368.1	323146129	 putative terminase ATPase subunit 	unclassified phages	not characterized	not characterized
+Felix-O1	Salmonella phage FelixO1	AAC24136.1	3249698	 unknown 	Myoviridae	not characterized	not characterized
+Fels-1	Salmonella phage Fels-1	YP_001700563.1	169257185	 bacteriophage terminase, large subunit 	unclassified phages	Cos/lambda	Cos
+Fels-2	Salmonella phage Fels-2	YP_001718747.1	169936048	 P2 gpP-like protein 	Myoviridae	5-cos/P2	Cos
+Flex5	Shigella flexneri 2a str. 301	NP_707056.2	56479836	 terminase of prophage CP-933C 	prophage	not characterized	not characterized
+FluMu	Haemophilus influenzae Rd KW20	NP_439650.1	16273402	 hypothetical protein HI1500 	prophage	host ends/Mu	Mu
+FSL-SP-058	Salmonella phage FSL SP-058	YP_008239484.1	526003524	 hypothetical protein SP058_00400 	Podoviridae	not characterized	not characterized
+G1	Staphylococcus phage G1	YP_240892.1	66394959	 ORF010 	Myoviridae	not characterized	not characterized
+GAP227	Cronobacter phage vB_CskP_GAP227	YP_007348364.1	448260268	 DNA maturase B 	Podoviridae	not characterized	not characterized
+gh-1	Pseudomonad phage gh-1	NP_813786.1	29366741	 DNA packaging protein B 	Podoviridae	short DTR/T7	DTR
+Gifsy-1	Phage Gifsy-1	YP_001700612.1	169257235	 DNA packaging protein; large terminase subunit; Lambda gpA homolog 	unclassified phages	Cos/lambda	Cos
+Gifsy-2	Phage Gifsy-2	YP_001700675.1	169257299	 bacteriophage DNA packaging protein; terminase, large subunit 	unclassified phages	Cos/lambda	Cos
+Gj1	Enterobacteria phage phiEcoM-GJ1	YP_001595443.1	161617963	 putative large subunit terminase 	Myoviridae	not characterized	not characterized
+RhodoGTA	Rhodobacter capsulatus	AAF13179.1	6467533	AF181080_1 putative gene transfer agent large terminase 	prophage	not characterized	not characterized
+HK022	Enterobacteria phage HK022	NP_037663.1	9634121	 terminase large subunit 	Siphoviridae	3-cos/HK97	Cos
+HK620	Enterobacteria phage HK620	NP_112076.1	13559866	 terminase large subunit 	Podoviridae	headful/Sf6	Headful
+HK639	Escherichia phage HK639	YP_004934032.1	356870602	 terminase large subunit 	Siphoviridae	not characterized	not characterized
+HK97	Enterobacteria phage HK97	NP_037698.1	9634166	 terminase large subunit 	Siphoviridae	3-cos/HK97	Cos
+HP1	Haemophilus phage HP1	NP_043485.1	9628620	 hypothetical protein HP1p21 	Myoviridae	5-cos/P2	Cos
+HS2	Sodalis praecaptivus	AHF77910.1	573022374	 Putative terminase large subunit protein 	prophage	not characterized	not characterized
+IME11	Enterobacter phage IME11	YP_006990693.1	414090582	 hypothetical protein IME11_88 	Podoviridae	DTR/N4	DTR
+JA-1	Vibrio phage JA-1	YP_008126830.1	514052067	 terminase large subunit 	Podoviridae	DTR/N4	DTR
+JWAlpha	Achromobacter phage JWAlpha	AHC94037.1	567727242	 hypothetical protein JJJB_0084 	Podoviridae	DTR/N4	DTR
+K	Staphylococcus phage K	YP_009041305.1	657184202	 putative terminase large subunit 	Myoviridae	not characterized	not characterized
+K139	Vibrio phage K139	NP_536648.1	17975126	 putative terminase, ATPase subunit 	Myoviridae	5-cos/P2	Cos
+K1-5	Enterobacteria phage K1-5	YP_654141.1	108862025	40	Podoviridae	short DTR/T7	DTR
+KF-1	Edwardsiella phage KF-1	YP_006990432.1	414090318	 putative terminase, large subunit 	Podoviridae	not characterized	not characterized
+KP34	Klebsiella phage KP34	YP_003347645.1	282554628	 putative DNA maturase B 	Podoviridae	not characterized	not characterized
+KVP40	Vibrio phage KVP40	NP_899601.1	34419588	 terminase DNA packaging enzyme large subunit 	Myoviridae	headful/T4	Headful
+L-413C	Yersinia phage L-413C	NP_839851.1	30065706	 gpP 	Myoviridae	not characterized	not characterized
+L5	Mycobacterium phage L5	NP_039677.1	9625443	 Terminase 	Siphoviridae	3-cos/HK97	Cos
+Lambda	Enterobacteria phage lambda	NP_040581.1	9626245	 DNA packaging protein 	Siphoviridae	not characterized	not characterized
+LambdaSo	Shewanella oneidensis MR-1	AAN55981.2	410519838	 Lambda phage terminase A 	prophage	not characterized	not characterized
+lambdaBa02	Bacillus anthracis str. Ames	AAP27819.1	30258600	 putative prophage LambdaBa02, terminase, large subunit 	prophage	3-cos/HK97	Cos
+LambdaSa2	Streptococcus agalactiae 2603V/R	NP_688845.1	22537994	 prophage LambdaSa2, terminase large subunit 	prophage	not characterized	not characterized
+LIMEzero	Pantoea phage LIMElight	YP_007002903.1	418488991	 putative DNA maturase B 	Podoviridae	not characterized	not characterized
+List-I6	Listeria innocua Clip11262	CAC97806.1	16415101	 lin2579 	prophage	not characterized	not characterized
+LIT1	Pseudomonas phage LIT1	YP_003358481.1	282598931	 N4 gp68-like protein 	Podoviridae	DTR/N4	DTR
+Lj965	Lactobacillus prophage Lj965	NP_958579.1	41179257	 putative terminase large subunit 	Siphoviridae	headful/P22	Headful
+LL-H	Lactobacillus phage LL-H	YP_001285878.1	148750837	 putative terminase large subunit 	Siphoviridae	headful/P22	Headful
+LP65	Lactobacillus phage LP65	YP_164748.1	56693161	 hypothetical protein LP65_gp113 	Myoviridae	not characterized	not characterized
+LP7	Enterobacteria phage LP7	AAA88220.1	553003	 packaging glycoprotein, partial 	Podoviridae	headful/P22	Headful
+LUZ7	Pseudomonas phage LUZ7	YP_003358367.1	282599477	 N4 gp68-like protein 	Podoviridae	DTR/N4	DTR
+Meso1	Mesorhizobium loti MAFF303099	BAB48042.1	14021429	 mll0463 	prophage	not characterized	not characterized
+Meso2	Mesorhizobium loti MAFF303099	BAB54385.1	14027792	 mlr8521 	prophage	not characterized	not characterized
+Meso3	Mesorhizobium loti MAFF303099	BAB53654.1	14027385	 mlr8003 	prophage	not characterized	not characterized
+MM1	Streptococcus phage MM1	NP_150161.1	15088772	 putative large terminase subunit 	Siphoviridae	not characterized	not characterized
+MSW-3	Edwardsiella phage MSW-3	BAM68823.1	427197461	 putative terminase, large subunit 	Myoviridae	not characterized	not characterized
+Mu	Enterobacteria phage Mu	NP_050632.1	9633519	 putative portal protein 	Myoviridae	host ends/Mu	Mu
+MuSo1	Shewanella oneidensis MR-1	NP_716299.1	24372257	 Mu phage large terminase subunit GpE 	prophage	host ends/Mu	Mu
+N15	Enterobacteria phage N15	NP_046897.1	9630466	 gp2 	Siphoviridae	Cos/lambda	Cos
+N4	Escherichia phage N4	YP_950546.1	119952237	 gp68 	Podoviridae	DTR/N4	DTR
+NF5	Brochothrix phage NF5	ADH03023.1	296245409	 gp2 	Siphoviridae	not characterized	not characterized
+O1205	Streptococcus phage O1205	NP_695104.1	23455873	 hypothetical protein O1205p26 	Siphoviridae	not characterized	not characterized
+PhiEco32	Enterobacteria phage Phieco32	YP_001671752.1	167583562	 terminase large subunit 	Podoviridae	not characterized	not characterized
+phiKT	Escherichia phage phiKT	AEZ65109.1	374713678	 DNA maturase B 	Podoviridae	not characterized	not characterized
+P008	Lactococcus phage P008	YP_762513.1	115304212	 putative terminase large subunit 	Siphoviridae	3-cos/HK97	Cos
+P1	Enterobacteria phage P1	YP_006575.1	46401729	 PacA 	Myoviridae	not characterized	not characterized
+P100	Listeria phage P100	AAY53308.1	66732717	 gp5 	Myoviridae	not characterized	not characterized
+P2	Enterobacteria phage P2	NP_046758.1	9630329	 gpP 	Myoviridae	5-cos/P2	Cos
+P22	Enterobacteria phage P22	YP_063734.1	51236724	 terminase large subunit 	Podoviridae	headful/P22	Headful
+P27	Enterobacteria phage phiP27	NP_543088.1	18249900	 putative terminase 	Myoviridae	not characterized	not characterized
+PBC5	Sinorhizobium phage PBC5	NP_542306.1	18071222	 hypothetical protein PBC5p46 	Caudovirales	headful/933W	Headful
+PBSX	Bacillus subtilis subsp. subtilis str. 168	NP_389140.1	16078323	 PBSX phage terminase large subunit 	prophage	not characterized	not characterized
+pCB2047-B	Sulfitobacter phage phiCB2047-B	YP_007675791.1	472342282	 hypothetical protein SUFG_00002 	Podoviridae	not characterized	not characterized
+pEP-14	Erwinia phage PEp14	AEY69590.1	373429465	 putative terminase large subunit 	Podoviridae	not characterized	not characterized
+Phage21	Phage 21	AAA32340.1	215456	 terminase large subunit 	Siphoviridae	not characterized	not characterized
+phi-11	Staphylococcus phage 11	NP_803283.1	29028593	 large terminase 	Siphoviridae	not characterized	not characterized
+phi-13	Staphylococcus phage 13	NP_803384.1	29028696	 terminase-large subunit 	Siphoviridae	not characterized	not characterized
+phi92	Enterobacteria phage phi92	CBY99548.1	396576928	 Phi92_gp119 	Myoviridae	not characterized	not characterized
+phi-adh	Lactobacillus phage phiadh	NP_050148.1	9633040	 hypothetical protein phiadhp40 	Siphoviridae	not characterized	not characterized
+phi-CTX	Pseudomonas phage phiCTX	NP_490600.1	17313220	 predicted DNA-dependent ATPase terminase subunit 	Myoviridae	not characterized	not characterized
+phi-ETA	Staphylococcus phage phiETA	NP_510934.1	17426268	 similar to phage O1205 ORF26 (putative large subunit terminase) 	Siphoviridae	not characterized	not characterized
+psiM100	Methanothermobacter phage psiM100	AAG39957.1	11692721	AF301375_17 putative large terminase subunit 	Siphoviridae	not characterized	not characterized
+psiM2	Methanobacterium phage psiM2	NP_046964.1	9630534	 large terminase subunit 	Siphoviridae	not characterized	not characterized
+phi-Sa2MW	Staphylococcus aureus	WP_000153544.1	446075689	 terminase 	prophage	not characterized	not characterized
+phi1026b	Burkholderia phage phi1026b	NP_945032.1	38707892	 gp2 	Siphoviridae	not characterized	not characterized
+phi-105	Bacillus phage phi105	NP_690755.1	22854995	 hypothetical protein phi105_02 	Siphoviridae	not characterized	not characterized
+phi3626	Clostridium phage phi3626	NP_612831.1	20065965	 putative terminase large subunit 	Siphoviridae	3-cos/HK97	Cos
+phi80	Enterobacteria phage phi80	AFV29142.1	409188394	 terminase large subunit 	Siphoviridae	not characterized	not characterized
+phiA1122	Yersinia phage phiA1122	NP_848309.1	30387500	 DNA maturase B 	Podoviridae	not characterized	not characterized
+phi-BT1	Streptomyces phage phiBT1	NP_813693.1	29366753	 gp33 	Siphoviridae	not characterized	not characterized
+phiC31	Streptomyces phage phiC31	NP_047924.1	9631142	 gp33 	Siphoviridae	3-cos/HK97	Cos
+phiE125	Burkholderia phage phiE125	NP_536358.1	17975163	 putative terminase (large subunit) 	Siphoviridae	3-cos/HK97	Cos
+phiES15	Cronobacter phage phiES15	AFH14951.1	383389977	 terminase large subunit 	Siphoviridae	not characterized	not characterized
+phiEt88	Erwinia phage phiEt88	CBX44515.1	311875257	 terminase, large subunit 	Myoviridae	not characterized	not characterized
+phiFlu	Haemophilus influenzae Rd KW20	NP_439561.1	16273317	 terminase large subunit-like protein 	prophage	not characterized	not characterized
+phig1e	Lactobacillus phage phig1e	NP_695170.1	23455799	 putative terminase large subunit 	Siphoviridae	headful/P22	Headful
+phiHSIC	Listonella phage phiHSIC	YP_224236.1	62362371	 putative terminase large subunit 	Siphoviridae	not characterized	not characterized
+phiKMV	Pseudomonas phage phiKMV	NP_877482.1	33300854	 putative DNA maturase B 	Podoviridae	short DTR/T7	DTR
+phiKO2	Klebsiella phage phiKO2	YP_006582.1	46402088	 putative large terminase subunit 	Siphoviridae	3-cos/HK97	Cos
+phiR1-37	Yersinia phage phiR1-37	CCE26169.1	353227948	 putative terminase large subunit; ATP-dependent DNA-helicase 	Myoviridae	not characterized	not characterized
+phiSLT	Staphylococcus phage Slt	NP_075501.1	12719430	 terminase large subunit 	Siphoviridae	not characterized	not characterized
+phiYeO3-12	Yersinia phage phiYeO3-12	NP_052122.1	9634048	 DNA packaging protein B 	Podoviridae	not characterized	not characterized
+Pnm1	Neisseria meningitidis Z2491	CAM08971.1	121052631	 hypothetical protein NMA1852 	prophage	not characterized	not characterized
+PP01	Pseudomonas putida KT2440	AAN69475.1	24985568	AE016582_13 phage terminase, large subunit, putative 	prophage	not characterized	not characterized
+PP02	Pseudomonas putida KT2440	NP_745186.1	26989761	 terminase large subunit 	prophage	not characterized	not characterized
+PP04	Pseudomonas putida KT2440	AAN67184.1	24983041	AE016346_2 phage terminase, large subunit, putative 	prophage	not characterized	not characterized
+P-SSP7	Prochlorococcus phage P-SSP7	YP_214228.1	61806451	 DNA maturase beta subunit 	Podoviridae	not characterized	not characterized
+PVL	Staphylococcus phage PVL	NP_058441.1	9635167	 hypothetical protein PVL_02 	Siphoviridae	not characterized	not characterized
+PY100	Yersinia phage PY100	CAJ28416.1	164414521	 terminase large subunit 	Myoviridae	not characterized	not characterized
+PY54	Yersinia phage PY54	NP_892047.1	33770510	 terminase large subunit 	Siphoviridae	3-cos/HK97	Cos
+pYD6-A	Pseudoalteromonas phage pYD6-A	YP_007674305.1	472340783	 hypothetical protein PYDG_00098 	Podoviridae	DTR/N4	DTR
+r1t	Lactococcus phage r1t	NP_695057.1	23455748	 putative terminase 	Siphoviridae	not characterized	not characterized
+RadMu	Deinococcus radiodurans R1	NP_285417.1	15807762	 hypothetical protein DR_A0094 	prophage	not characterized	not characterized
+Rak2	Enterobacteria phage vB_KleM-RaK2	AFA44384.1	375281191	 large terminase protein 	Myoviridae	not characterized	not characterized
+RB49	Enterobacteria phage RB49	NP_891724.1	33620526	 terminase DNA packaging enzyme large subunit 	Myoviridae	headful/T4	Headful
+Plymouth-podovirus-1	Roseovarius Plymouth podovirus 1	CBX88008.1	408906086	 N4 gp68-like protein 	Podoviridae	not characterized	not characterized
+rV5	Escherichia phage rv5	YP_002003567.1	194173092	 terminase large subunit 	Myoviridae	not characterized	not characterized
+SETP3	Salmonella phage SETP3	YP_001110830.1	134288591	 putative terminase large subunit 	Siphoviridae	not characterized	not characterized
+Sf6	Enterobacteria phage Sf6	NP_958178.1	41057280	 gene 2 protein 	Podoviridae	headful/Sf6	Headful
+Sfi11	Streptococcus phage Sfi11	NP_056675.1	9635008	 gp411 	Siphoviridae	headful/P22	Headful
+Sfi19	Streptococcus phage Sfi19	NP_049926.1	9632897	 putative terminase large subunit 	Siphoviridae	3-cos/HK97	Cos
+Sfi21	Streptococcus phage Sfi21	NP_049967.1	9632939	 putative large subunit terminase 	Siphoviridae	3-cos/HK97	Cos
+SfV	Enterobacteria phage SfV	NP_599034.1	19548992	 large terminase subunit 	Myoviridae	not characterized	not characterized
+sk1	Lactococcus phage SK1	NP_044948.1	9629655	 terminase large subunit 	Siphoviridae	not characterized	not characterized
+SKIN	Bacillus subtilis subsp. subtilis str. 168	NP_390496.1	16079672	 hypothetical protein BSU26190 	prophage	not characterized	not characterized
+SO-1	Sodalis phage SO1	YP_003344937.1	273810556	 gp2 	Siphoviridae	not characterized	not characterized
+SP18	Shigella phage SP18	YP_003934803.1	308814529	 terminase DNA packaging enzyme large subunit 	Myoviridae	not characterized	not characterized
+SP6	Enterobacteria phage SP6	NP_853601.1	31711683	 large terminase subunit 	Podoviridae	short DTR/T7	DTR
+SPN3US	Salmonella phage SPN3US	AEP84093.1	349502971	 putative terminase large subunit 	Myoviridae	not characterized	not characterized
+SPO1	Bacillus phage SPO1	YP_002300330.1	209972883	 gp2.11 	Myoviridae	NoGroup	NoGroup
+SPP1	Bacillus phage SPP1	NP_690654.1	22855048	 hypothetical protein SPP1p003 	Siphoviridae	headful/P22	Headful
+SSU5	Salmonella phage SSU5	AFL46929.1	390013837	 putative terminase large subunit 	Siphoviridae	not characterized	not characterized
+ST64B	Salmonella phage ST64B	NP_700375.1	23505447	 Terminase large subunit 	Caudovirales	3-cos/HK97	Cos
+ST64T	Salmonella phage ST64T	NP_720326.1	24371583	 terminase large subunit 	Podoviridae	not characterized	not characterized
+Stx1-phi	Escherichia Stx1 converting phage	BAC77983.1	32128179	 hypothetical protein 	Siphoviridae	not characterized	not characterized
+T1	Enterobacteria phage T1	YP_003892.1	45686309	 putative terminase large subunit 	Siphoviridae	not characterized	not characterized
+T3	Enterobacteria phage T3	NP_523347.1	17570838	 DNA packaging protein B 	Podoviridae	short DTR/T7	DTR
+T4	Enterobacteria phage T4	NP_049776.1	9632591	 gp17 terminase DNA packaging enzyme, large subunit 	Myoviridae	headful/T4	Headful
+T5	Escherichia phage T5	YP_006983.1	46401884	 terminase, large subunit 	Siphoviridae	NoGroup	NoGroup
+T7	Enterobacteria phage T7	NP_042010.1	9627482	 DNA maturation protein 	Podoviridae	short DTR/T7	DTR
+TM4	Mycobacterium phage TM4	NP_569740.1	18496890	 putative terminase gp4 	Siphoviridae	not characterized	not characterized
+TP901-1	Lactococcus phage TP901-1	NP_112694.1	13786562	 TerL 	Siphoviridae	NoGroup	NoGroup
+vB-EamP-S6	Erwinia phage vB_EamP-S6	YP_007005834.1	422935937	 gp098 	Podoviridae	not characterized	not characterized
+vB-EcoP-G7c	Escherichia phage vB_EcoP_G7C	AEL79678.1	343082267	 terminase subunit A 	Podoviridae	not characterized	not characterized
+VBP32	Vibrio phage VBP32	YP_007676555.1	472343052	 hypothetical protein VPMG_00065 	Podoviridae	DTR/N4	DTR
+VHML	Vibrio phage VHML	NP_758915.1	27311189	 ORF22 	Myoviridae	not characterized	not characterized
+Vi01	Salmonella phage ViI	YP_004327532.1	326804661	 Gp17 terminase subunit for DNA packaging, nuclease and ATPase 	Myoviridae	not characterized	not characterized
+VP16C	Vibrio phage VP16C	AAQ96534.1	37626159	 putative large terminase subunit 	Myoviridae	not characterized	not characterized
+VP16T	Vibrio phage VP16T	AAQ96470.1	37626094	 putative large terminase subunit 	Myoviridae	not characterized	not characterized
+VPMS1	Vibrio phage VPMS1	YP_008239661.1	525972088	 terminase large subunit 	Podoviridae	not characterized	not characterized
+VpV262	Vibrio phage VpV262	NP_640322.1	21234401	 hypothetical protein VpV262p61 	Podoviridae	not characterized	not characterized
+VWB	Streptomyces phage VWB	NP_958275.1	41057249	 hypothetical protein VWBp33 	Siphoviridae	not characterized	not characterized
+WO	Wolbachia phage WO	BAA89621.1	6723224	 orf2 	unclassified phages	Cos/lambda	Cos
+XccP1	Xanthomonas campestris pv. campestris str. ATCC 33913	NP_638318.1	21232401	 phage-related terminase 	prophage	not characterized	not characterized
+Xp10	Xanthomonas phage Xp10	NP_858953.1	32128418	 terminase large subunit 	Siphoviridae	3-cos/HK97	Cos
+ZF40	Pectobacterium phage ZF40	YP_007006950.1	422936681	 putative TerL large-subunit terminase 	Myoviridae	not characterized	not characterized
+epsilon15	Salmonella phage epsilon15	AAO06065.1	30266036	 terminase large subunit 	Podoviridae	not characterized	not characterized
+PhiEaH1	Erwinia phage PhiEaH1	AGX01793.1	548652049	 terminase large subunit 	Siphoviridae	not characterized	not characterized

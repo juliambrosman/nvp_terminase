@@ -1,0 +1,238 @@
+1.003.O.	6e-63	headful/Sf6	Headful
+1.004.O.	2e-57	3-cos/HK97	Cos
+1.005.O.	1e-60	Cos/lambda	Cos
+1.007.O.	3e-65	headful/Sf6	Headful
+1.009.O.	2e-57	Cos/lambda	Cos
+1.012.O.	2e-21	headful/Sf6	Headful
+1.013.O.	1e-80	headful/Sf6	Headful
+1.015.O.	1e-11	short DTR/T7	DTR
+1.016.O.	3e-93	headful/Sf6	Headful
+1.017.O.	2e-61	Cos/lambda	Cos
+1.022.O.	8e-20	headful/Sf6	Headful
+1.023.O.	9e-21	headful/Sf6	Headful
+1.024.O.	1e-18	headful/Sf6	Headful
+1.025.O.	0	DTR/N4	DTR
+1.026.O.	0	DTR/N4	DTR
+1.027.O.	2e-19	headful/Sf6	Headful
+1.028.O.	0	host ends/Mu	Mu
+1.029.O.	2e-39	NoGroup	NoGroup
+1.030.O.	6e-71	Cos/lambda	Cos
+1.032.O.	4e-21	headful/Sf6	Headful
+1.033.O.	4e-18	headful/Sf6	Headful
+1.034.O.	1e-11	short DTR/T7	DTR
+1.034.X.	1e-11	short DTR/T7	DTR
+1.036.O.	4e-63	headful/Sf6	Headful
+1.037.O.	2e-57	3-cos/HK97	Cos
+1.038.O.	2e-40	NoGroup	NoGroup
+1.039.O.	2e-58	headful/Sf6	Headful
+1.042.O.	6e-92	headful/Sf6	Headful
+1.046.O.	2e-16	headful/Sf6	Headful
+1.047.O.	2e-85	headful/933W	Headful
+1.049.O.	3e-114	Cos/lambda	Cos
+1.050.O.	5e-114	Cos/lambda	Cos
+1.052.A.	4e-27	headful/Sf6	Headful
+1.054.O.	9e-43	NoGroup	NoGroup
+1.055.O.	5e-114	Cos/lambda	Cos
+1.056.O.	2e-57	3-cos/HK97	Cos
+1.060.A.	2e-128	5-cos/P2	Cos
+1.061.O.	2e-62	headful/Sf6	Headful
+1.064.O.	1e-163	5-cos/P2	Cos
+1.066.O.	2e-57	3-cos/HK97	Cos
+1.067.O.	1e-63	headful/Sf6	Headful
+1.068.O.	2e-57	3-cos/HK97	Cos
+1.070.O.	7e-10	short DTR/T7	DTR
+1.071.A.	3e-93	headful/Sf6	Headful
+1.072.O.	2e-57	3-cos/HK97	Cos
+1.074.O.	1e-36	5-cos/P2	Cos
+1.075.O.	2e-61	Cos/lambda	Cos
+1.076.O.	6e-31	NoGroup	NoGroup
+1.077.O.	7e-10	short DTR/T7	DTR
+1.079.O.	3e-63	headful/Sf6	Headful
+1.081.O.	0	headful/T4	Headful
+1.082.O.	1e-36	5-cos/P2	Cos
+1.083.O.	2e-116	Cos/lambda	Cos
+1.085.O.	3e-89	short DTR/T7	DTR
+1.086.O.	4e-59	Cos/lambda	Cos
+1.087.A.	3e-66	Cos/lambda	Cos
+1.088.O.	1e-18	headful/Sf6	Headful
+1.089.O.	2e-21	headful/Sf6	Headful
+1.090.B.	2e-63	headful/Sf6	Headful
+1.091.O.	6e-63	headful/Sf6	Headful
+1.093.O.	2e-61	Cos/lambda	Cos
+1.094.O.	2e-61	Cos/lambda	Cos
+1.097.O.	0	DTR/N4	DTR
+1.098.O.	2e-21	headful/Sf6	Headful
+1.100.O.	6e-68	Cos/lambda	Cos
+1.101.O.	5e-05	short DTR/T7	DTR
+1.103.O.	4e-21	headful/Sf6	Headful
+1.104.O.	2e-21	headful/Sf6	Headful
+1.105.O.	1e-67	headful/Sf6	Headful
+1.106.O.	1e-64	headful/Sf6	Headful
+1.108.O.	1e-163	5-cos/P2	Cos
+1.110.O.	5e-77	headful/Sf6	Headful
+1.111.A.	8e-143	Cos/lambda	Cos
+1.111.B.	8e-143	Cos/lambda	Cos
+1.112.O.	3e-93	headful/Sf6	Headful
+1.113.A.	2e-90	headful/933W	Headful
+1.115.A.	1e-163	5-cos/P2	Cos
+1.115.B.	1e-163	5-cos/P2	Cos
+1.116.O.	3e-89	short DTR/T7	DTR
+1.118.A.	2e-21	headful/Sf6	Headful
+1.118.B.	2e-21	headful/Sf6	Headful
+1.119.O.	2e-93	headful/Sf6	Headful
+1.122.A.	1e-35	NoGroup	NoGroup
+1.122.B.	1e-35	NoGroup	NoGroup
+1.123.O.	1e-84	headful/Sf6	Headful
+1.124.O.	4e-62	Cos/lambda	Cos
+1.127.O.	2e-93	headful/Sf6	Headful
+1.131.O.	2e-163	5-cos/P2	Cos
+1.132.O.	3e-36	5-cos/P2	Cos
+1.133.O.	2e-36	5-cos/P2	Cos
+1.134.O.	3e-89	short DTR/T7	DTR
+1.135.O.	7e-77	headful/Sf6	Headful
+1.136.O.	0	host ends/Mu	Mu
+1.137.O.	2e-77	headful/Sf6	Headful
+1.138.O.	9e-24	headful/933W	Headful
+1.139.A.	1e-11	short DTR/T7	DTR
+1.139.B.	1e-11	short DTR/T7	DTR
+1.142.O.	0	host ends/Mu	Mu
+1.143.O.	2e-93	headful/Sf6	Headful
+1.144.O.	2e-58	headful/Sf6	Headful
+1.147.O.	1e-163	5-cos/P2	Cos
+1.148.O.	8e-164	5-cos/P2	Cos
+1.149.O.	3e-78	headful/Sf6	Headful
+1.150.O.	0	DTR/N4	DTR
+1.151.O.	3e-141	5-cos/P2	Cos
+1.152.O.	0	DTR/N4	DTR
+1.154.O.	3e-28	NoGroup	NoGroup
+1.155.O.	2e-14	headful/Sf6	Headful
+1.156.O.	0	host ends/Mu	Mu
+1.157.O.	3e-31	5-cos/P2	Cos
+1.158.O.	6e-68	Cos/lambda	Cos
+1.159.O.	0	host ends/Mu	Mu
+1.160.O.	2e-21	headful/Sf6	Headful
+1.162.O.	1e-155	5-cos/P2	Cos
+1.164.O.	2e-61	Cos/lambda	Cos
+1.165.O.	1e-163	5-cos/P2	Cos
+1.166.O.	2e-14	headful/Sf6	Headful
+1.167.O.	1e-36	5-cos/P2	Cos
+1.168.O.	4e-36	5-cos/P2	Cos
+1.171.O.	2e-19	headful/Sf6	Headful
+1.172.O.	3e-89	short DTR/T7	DTR
+1.173.O.	5e-67	headful/Sf6	Headful
+1.174.O.	8e-61	Cos/lambda	Cos
+1.175.O.	3e-68	Cos/lambda	Cos
+1.176.O.	3e-89	short DTR/T7	DTR
+1.177.O.	1e-77	headful/Sf6	Headful
+1.178.O.	6e-91	headful/Sf6	Headful
+1.179.O.	1e-20	headful/933W	Headful
+1.181.O.	2e-59	Cos/lambda	Cos
+1.182.O.	8e-14	headful/T4	Headful
+1.183.O.	1e-14	headful/933W	Headful
+1.184.A.	7e-35	headful/Sf6	Headful
+1.186.O.	2e-64	headful/Sf6	Headful
+1.189.B.	3e-89	short DTR/T7	DTR
+1.189.C.	3e-89	short DTR/T7	DTR
+1.189.O.	3e-89	short DTR/T7	DTR
+1.190.O.	1e-14	headful/Sf6	Headful
+1.191.O.	8e-62	Cos/lambda	Cos
+1.194.O.	2e-19	headful/Sf6	Headful
+1.195.O.	2e-19	headful/Sf6	Headful
+1.196.O.	2e-19	headful/Sf6	Headful
+1.197.A.	2e-61	headful/933W	Headful
+1.198.A.	3e-14	NoGroup	NoGroup
+1.199.A.	3e-67	headful/Sf6	Headful
+1.199.B.	3e-67	headful/Sf6	Headful
+1.200.O.	2e-19	headful/Sf6	Headful
+1.201.B.	6e-67	Cos/lambda	Cos
+1.202.O.	0	5-cos/P2	Cos
+1.204.O.	2e-129	short DTR/T7	DTR
+1.205.O.	0	headful/933W	Headful
+1.206.O.	4e-29	5-cos/P2	Cos
+1.208.B.	3e-05	short DTR/T7	DTR
+1.209.O.	1e-11	short DTR/T7	DTR
+1.210.O.	9e-78	headful/Sf6	Headful
+1.211.A.	3e-15	headful/933W	Headful
+1.211.B.	3e-15	headful/933W	Headful
+1.213.O.	4e-69	headful/Sf6	Headful
+1.214.O.	1e-80	headful/Sf6	Headful
+1.216.O.	8e-77	headful/Sf6	Headful
+1.217.O.	0	host ends/Mu	Mu
+1.219.O.	0	host ends/Mu	Mu
+1.223.O.	1e-61	Cos/lambda	Cos
+1.225.O.	2e-59	Cos/lambda	Cos
+1.226.O.	2e-36	5-cos/P2	Cos
+1.228.O.	3e-31	5-cos/P2	Cos
+1.231.O.	2e-93	headful/Sf6	Headful
+1.232.O.	2e-08	headful/933W	Headful
+1.233.A.	1e-29	5-cos/P2	Cos
+1.233.B.	1e-29	5-cos/P2	Cos
+1.235.O.	5e-12	short DTR/T7	DTR
+1.236.O.	7e-75	headful/Sf6	Headful
+1.237.A.	2e-21	headful/Sf6	Headful
+1.237.B.	2e-21	headful/Sf6	Headful
+1.238.A.	0	DTR/N4	DTR
+1.238.B.	0	DTR/N4	DTR
+1.239.O.	5e-61	headful/Sf6	Headful
+1.240.O.	4e-36	5-cos/P2	Cos
+1.242.O.	9e-36	5-cos/P2	Cos
+1.243.O.	1e-67	headful/Sf6	Headful
+1.244.A.	3e-62	headful/T4	Headful
+1.245.O.	0	DTR/N4	DTR
+1.246.O.	4e-67	Cos/lambda	Cos
+1.247.A.	7e-36	NoGroup	NoGroup
+1.247.B.	7e-36	NoGroup	NoGroup
+1.248.O.	2e-67	headful/Sf6	Headful
+1.250.O.	3e-20	headful/Sf6	Headful
+1.251.O.	9e-21	headful/Sf6	Headful
+1.253.O.	5e-12	short DTR/T7	DTR
+1.254.O.	2e-21	headful/933W	Headful
+1.255.O.	3e-62	headful/T4	Headful
+1.256.O.	7e-65	headful/Sf6	Headful
+1.257.O.	9e-21	headful/933W	Headful
+1.259.O.	2e-14	headful/Sf6	Headful
+1.262.O.	4e-111	headful/P22	Headful
+1.263.A.	2e-64	headful/Sf6	Headful
+1.263.B.	2e-64	headful/Sf6	Headful
+1.264.O.	2e-13	short DTR/T7	DTR
+1.265.O.	1e-90	headful/Sf6	Headful
+1.266.O.	1e-36	5-cos/P2	Cos
+1.267.O.	2e-19	headful/Sf6	Headful
+1.268.B.	2e-19	headful/Sf6	Headful
+1.269.O.	2e-19	headful/Sf6	Headful
+1.270.A.	2e-19	headful/Sf6	Headful
+1.270.B.	2e-19	headful/Sf6	Headful
+1.271.A.	2e-19	headful/Sf6	Headful
+1.271.B.	2e-19	headful/Sf6	Headful
+1.272.O.	5e-20	headful/Sf6	Headful
+1.273.O.	3e-78	headful/Sf6	Headful
+1.274.O.	2e-19	headful/Sf6	Headful
+1.275.O.	2e-70	headful/Sf6	Headful
+1.276.O.	7e-14	NoGroup	NoGroup
+1.277.A.	2e-19	headful/Sf6	Headful
+1.277.B.	2e-19	headful/Sf6	Headful
+1.278.O.	1e-64	headful/Sf6	Headful
+1.280.O.	2e-19	headful/Sf6	Headful
+1.281.O.	2e-19	headful/Sf6	Headful
+1.282.A.	2e-19	headful/Sf6	Headful
+1.283.A.	2e-18	headful/Sf6	Headful
+1.283.B.	2e-18	headful/Sf6	Headful
+1.283.C.	2e-18	headful/Sf6	Headful
+1.284.A.	9e-78	headful/933W	Headful
+1.285.O.	3e-16	headful/Sf6	Headful
+1.286.O.	1e-63	headful/Sf6	Headful
+1.287.O.	2e-87	headful/933W	Headful
+1.289.A.	9e-89	headful/933W	Headful
+1.291.O.	1e-90	headful/933W	Headful
+1.293.O.	2e-04	short DTR/T7	DTR
+12G01.O.	2e-63	headful/Sf6	Headful
+2.044.O.	4e-58	3-cos/HK97	Cos
+2.058.O.	6e-65	5-cos/P2	Cos
+2.095.A.	8e-14	NoGroup	NoGroup
+2.095.B.	8e-14	NoGroup	NoGroup
+2.096.O.	3e-116	Cos/lambda	Cos
+2.130.O.	0	DTR/N4	DTR
+2.159.A.	0	host ends/Mu	Mu
+2.159.B.	0	host ends/Mu	Mu
+2.275.O.	1e-71	headful/T4	Headful
+3.058.O.	1e-64	5-cos/P2	Cos
